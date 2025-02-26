@@ -1,0 +1,7 @@
+ChatFusion/*
+!ChatFusion/src/
+
+Server/*
+!Server/src/
+
+.git/
